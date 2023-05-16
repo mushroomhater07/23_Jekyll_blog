@@ -18,5 +18,4 @@ change url: in _config.yml
   url: "https://mushroomhater07.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 ```
 ## ToDo
-Fix CSS
 use native Jekyll runner
