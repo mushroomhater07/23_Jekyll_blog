@@ -12,7 +12,7 @@ github
 ```
 set github pages + branch main
 github action - static page with jekyll
-
+```
 ## ToDo
 Fix CSS
 use native Jekyll runner
